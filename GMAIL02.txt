@@ -1,0 +1,19 @@
+06/07/2019 Gmail - [GitHub] Please verify your device
+https://mail.google.com/mail/u/0?ik=dcb3b5f601&view=pt&search=all&permthid=thread-f%3A1637928686994517114&simpl=msg-f%3A16379286… 1/1
+Rajat Kushwaha <akshkushwaha02@gmail.com>
+[GitHub] Please verify your device
+1 message
+GitHub <noreply@github.com> Tue, Jul 2, 2019 at 12:25 PM
+To: rajat-ksh <akshkushwaha02@gmail.com>
+Hey rajat-ksh!
+A sign in attempt requires further verification because we did not recognize your device. To complete the sign in,
+enter the verification code on the unrecognized device.
+Device: Chrome on Windows
+Verification code: 627107
+If you did not attempt to sign in to your account, your password may be compromised. Visit
+https://github.com/settings/admin to create a new, strong password for your GitHub account.
+For more information, see https://help.github.com/articles/keeping-your-account-and-data-secure/ in the GitHub Help.
+To see this and other security events for your account, visit https://github.com/settings/security
+If you run into problems, please contact support by visiting https://github.com/contact
+Thanks,
+Your friends at GitHub
